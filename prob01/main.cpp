@@ -1,4 +1,4 @@
-// Name: Willy Reyes-Rendon
+// Name:
 // This program displays a diamond pattern to the screen.
 
 #include <iostream>
